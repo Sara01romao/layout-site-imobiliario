@@ -13,3 +13,9 @@
  <br />
  
 </p>
+
+
+## Cores:
+Vermelho: #990000<br>
+Verde: #139B46<br>
+Azul: #0D5CA4
