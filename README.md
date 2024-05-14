@@ -13,7 +13,9 @@
 </p>
 
 ## Layout 
-Disponível na pasta de imagens, use as linguagens que preferir no desenvolvimento. 
+
+O Desafio de um site imobiliário envolve criar uma interface intuitiva que facilita a busca e navegação por imóveis, proporcionando uma experiência agradável e eficiente para os usuários.<br><br>
+Layout disponível na pasta de imagens, use as linguagens que preferir no desenvolvimento. 
 
 ## Cores:
 Vermelho: #990000<br>
